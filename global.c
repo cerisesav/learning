@@ -44,3 +44,5 @@ void copy (void)
     while ((longest[i] = line[i]) != '\0')
         ++i;
 }
+
+/*gospodi pomogi proshu*/
