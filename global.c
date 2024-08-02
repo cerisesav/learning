@@ -45,4 +45,4 @@ void copy (void)
         ++i;
 }
 
-/*gospodi pomogi proshu*/
+/*gospodi pomogi proshu aaaaaaaaaaaaa*/
