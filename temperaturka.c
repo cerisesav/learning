@@ -14,3 +14,4 @@ int tempa(int cel)
     fahr = cel * 9/5 + 32;
     return fahr;
 }
+
